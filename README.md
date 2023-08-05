@@ -13,8 +13,6 @@ This repository contains the code and resources for the ATLIQ Hardware Sales Ins
 - Power BI: Used to create the dynamic and interactive dashboard.
 - Microsoft Excel: Utilized for additional data processing and analysis.
 
-## Audience
-The dashboard was developed collaboratively with stakeholders, analysts, and decision-makers to deliver actionable insights.
 
 ## Future Enhancements
 As part of continuous improvement, potential future enhancements may include:
