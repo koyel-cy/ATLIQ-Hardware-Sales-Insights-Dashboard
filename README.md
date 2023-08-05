@@ -2,6 +2,10 @@
 
 ## Description
 This repository contains the code and resources for the ATLIQ Hardware Sales Insights Dashboard. The dashboard was developed through a collaborative effort, leveraging agile development methodologies and iterative improvements. It provides valuable insights into the sales data of ATLIQ Hardware products. The data source for the dashboard is the ATLIQ Hardware sales dataset stored in MySQL. Data analysis and cleaning were performed using MySQL, ensuring data accuracy before creating the dynamic dashboard using Power BI and Microsoft Excel.
+- Results folder contains the screenshots of the visualizations.
+- Sales Insights.pbix contains power bi visualization.
+- dp_dump_Datasets.sql contains the sales data of ATLIQ Hardware.
+
 
 ## Benefits
 - Empowered ATLIQ Hardware to make data-driven decisions through agile development and iterative improvements.
