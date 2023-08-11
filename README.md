@@ -17,9 +17,12 @@ This repository contains the code and resources for the ATLIQ Hardware Sales Ins
 - Power BI: Used to create the dynamic and interactive dashboard.
 - Microsoft Excel: Utilized for additional data processing and analysis.
 
+![Sales insights Analysis Power BI Report](https://github.com/koyel-cy/ATLIQ-Hardware-Sales-Insights-Dashboard/assets/64901152/fbc7d7e0-9acd-4ded-89c5-9bb8994482e2)
 
 ## Future Enhancements
 As part of continuous improvement, potential future enhancements may include:
 - Integrating inventory management insights to provide a comprehensive view of sales and inventory.
-- Incorporating predictive analytics for sales forecasting to aid in proactive decision-making.
+- Incorporating predictive analytics for sales forecasting to aid in proactive decision-making.![Dashboard - year(2020)](https://github.com/koyel-cy/ATLIQ-Hardware-Sales-Insights-Dashboard/assets/64901152/9bc7da49-b1a2-4d23-8ef2-fa2290752c81)
 
+
+![Dashboard - year(2020) and Customer (ES)](https://github.com/koyel-cy/ATLIQ-Hardware-Sales-Insights-Dashboard/assets/64901152/a95d8cdc-71e0-4bdb-8f04-d51b3decb364)
